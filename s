@@ -1,3 +1,0 @@
-buatkan website portofolio cukup pada 1 halaman sjaa, namun pada 1 halaman itu terjejer berbagai  icon aplikasi jika salah satu di tekan maka dia akan ada animasi berpindah kemudian menjelaskan tentqang diri kita, website portofolio ini bertema aplikasi.
-
-“Buatkan sebuah website portofolio satu halaman bertema antarmuka ponsel. Di tampilan awal, terdapat beberapa ikon aplikasi berjajar. Ketika pengguna menekan satu ikon, muncul animasi transisi seolah membuka aplikasi, lalu menampilkan konten tentang diri saya (seperti profil, skill, proyek, galeri, kontak). Setiap bagian bisa ditutup untuk kembali ke halaman utama berisi ikon-ikon. Tampilkan desain yang modern, penuh warna, responsif, dan interaktif, seperti menggunakan aplikasi di layar ponsel.”
